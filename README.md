@@ -1,6 +1,6 @@
-# MIDI Controller
+# USB MIDI Controller
 
-Home made foot pedal midi controller using an Arduino pro micro.
+Home made foot pedal native USB MIDI controller device using an Arduino pro micro.
 The circuit schematics and drawings were made with Fritzing and the code
 with the Arduino IDE.
 
@@ -81,7 +81,7 @@ This is what the box looks like with switches on it.
 
 I soldered cables to the switches and just inserted the other ends of the cable in their respective ground and input
 female header slot on the board. Note: one can use hot glue to make sure that the cables stay still in the female headers
-on the board. Here is what is looks like:
+on the board. I used a male to female micro-USB cable to expose the Arduino micro-USB port and have a longer USB cable Here is what is looks like:
 
 ![box circuit](images/box_circuit.jpg)
 
