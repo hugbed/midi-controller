@@ -81,7 +81,9 @@ This is what the box looks like with switches on it.
 
 I soldered cables to the switches and just inserted the other ends of the cable in their respective ground and input
 female header slot on the board. Note: one can use hot glue to make sure that the cables stay still in the female headers
-on the board.
+on the board. Here is what is looks like:
+
+![box circuit](box_circuit.jpg)
 
 ## Code
 
