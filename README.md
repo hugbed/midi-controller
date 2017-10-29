@@ -83,7 +83,7 @@ I soldered cables to the switches and just inserted the other ends of the cable 
 female header slot on the board. Note: one can use hot glue to make sure that the cables stay still in the female headers
 on the board. Here is what is looks like:
 
-![box circuit](box_circuit.jpg)
+![box circuit](images/box_circuit.jpg)
 
 ## Code
 
